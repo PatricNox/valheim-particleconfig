@@ -1,0 +1,6 @@
+.vs
+src/libs/*.dll
+src/ParticleConfig/bin
+src/ParticleConfig/obj
+src/*.sln
+src/*.Config
