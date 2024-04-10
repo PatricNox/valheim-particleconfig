@@ -1,5 +1,5 @@
 {
-    "name": "Particle Configurator",
+    "name": "ParticleConfig",
     "version_number": "1.0.0",
     "website_url": "https://discord.gg/kEUCbfySZu",
     "description": "Disable/Enable Particles (Snow, Rain, etc) through config",
